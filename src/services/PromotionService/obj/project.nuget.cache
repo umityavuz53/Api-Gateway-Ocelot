@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TEdtFeB07ZoHZp76NC02IFGR6KAWjyPdOYSLZtDfjcor49A8Pyl7rRBWGM1hMW3keHQ2Vfsy7An0Fb7wadqdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ExtumitY\\Desktop\\Example Projects\\Api Gateway - Ocelot\\src\\services\\PromotionService\\PromotionService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

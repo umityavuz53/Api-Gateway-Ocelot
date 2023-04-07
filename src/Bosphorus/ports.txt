@@ -1,0 +1,5 @@
+- AuthService 5501
+- GamerService 6501
+- ProductService  7501
+- PromotionService 8501
+- Bosphorus 5000

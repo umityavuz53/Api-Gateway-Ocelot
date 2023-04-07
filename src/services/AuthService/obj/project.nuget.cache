@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "HD03K92OCjbhYc087VwCW/3/SeU6VAdbiCFv4sUwzuUMGgNHonmMXYJ7CVCZ+6NdagbDFh88vhr2Tf7Qopmp7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ExtumitY\\Desktop\\Example Projects\\Api Gateway - Ocelot\\src\\services\\AuthService\\AuthService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.28.1\\microsoft.identitymodel.abstractions.6.28.1.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.28.1\\microsoft.identitymodel.jsonwebtokens.6.28.1.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.identitymodel.logging\\6.28.1\\microsoft.identitymodel.logging.6.28.1.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.28.1\\microsoft.identitymodel.tokens.6.28.1.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.28.1\\system.identitymodel.tokens.jwt.6.28.1.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\ExtumitY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
